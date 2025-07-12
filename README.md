@@ -1,0 +1,2 @@
+# microservices-config
+aok Amiiry
